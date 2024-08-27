@@ -17,7 +17,14 @@ Powered by the Groq API, ensuring accurate and comprehensive responses.
 
 2.**Right-Click:** Choose "Find Meaning" from the context menu.
 
-3.**View Meaning:** An alert will display the meaning, synonyms, or explanation based on the selected text.
+![find-meaning](https://github.com/user-attachments/assets/67d42d3d-d3a2-45bb-b454-164c4d15f370)
+
+
+3.**View Meaning:**
+An alert will display the meaning, synonyms, or explanation based on the selected text.
+
+![meaning-alert](https://github.com/user-attachments/assets/af0eb304-449b-4a93-b3cb-19d6dd460b14)
+
 
 **Installation**
 
